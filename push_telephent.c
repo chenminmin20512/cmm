@@ -1,1 +1,2 @@
-second:open the fridge door
+first:open the fridge door
+second:push elephant into fridge
